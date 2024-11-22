@@ -29,3 +29,11 @@
 
 /* jouw code */
 
+footer {
+	background-color: #006FCD;
+	color: white;
+}
+
+footer a {
+	color: white;
+}
